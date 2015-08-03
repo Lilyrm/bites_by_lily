@@ -1,0 +1,42 @@
+.title {
+  color: #660033;
+  text-align:center;
+  font-size: 50px;
+}
+
+body{
+  background-color: #E0E0E0;
+}
+
+.website_titles{
+  color: #00CCCC;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+.restaurant {
+  display:inline-block;
+}
+
+ul {
+  text-decoration: none;
+}
+.review{
+
+}
+
+A:visited{
+  color: #606060;
+  text-decoration: none;
+}
+A:link{
+  color: #606060;
+  text-decoration: none;
+}
+A:active{
+  color: #606060;
+  text-decoration: none;
+}
+A:hover{
+  color: #606060;
+  text-decoration: none;
+}
