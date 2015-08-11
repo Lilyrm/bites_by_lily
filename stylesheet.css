@@ -24,6 +24,11 @@ ul {
 
 }
 
+.img{
+  width: 500px;
+  height: 500px;
+}
+
 A:visited{
   color: #606060;
   text-decoration: none;
